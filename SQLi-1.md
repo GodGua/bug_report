@@ -42,4 +42,4 @@ Connection: close
 
 The server's response time is 15 seconds
 
-![image](https://github.com/GodGua/bug_report/blob/main/sql1.png)
+![image](https://github.com/GodGua/bug_report/blob/main/sql2.png)
