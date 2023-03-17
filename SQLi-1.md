@@ -1,8 +1,4 @@
-# Medicine Tracker System v1.0 has SQL injection
-
 BUG_Author:godgua
-
-Website source address:https://www.sourcecodester.com/php/16308/medicine-tracker-system-php-oop-and-mysql-db-source-code-free-download.html
 
 Vulnerability File: /php-mts/app/medicines/view_details.php
 
